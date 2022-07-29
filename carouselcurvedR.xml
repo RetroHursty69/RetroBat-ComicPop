@@ -1,0 +1,28 @@
+<theme>
+   <formatVersion>7</formatVersion>
+
+      <view name="system">
+          <carousel name="systemcarousel">
+          <zIndex>400</zIndex>	      
+          <type>vertical_wheel</type>
+          <pos>0.34 0</pos>
+          <size>1 1</size>
+          <logoSize>0.17 0.17</logoSize>
+          <color>00000000</color>
+          <maxLogoCount>19</maxLogoCount>
+          <logoRotation>-7</logoRotation>
+          <logoRotationOrigin>2.50 0.5</logoRotationOrigin>
+          <logoAlignment>center</logoAlignment>       
+         </carousel>
+	<image name="system-background" extra="true">
+         <pos>0.0 0.1</pos>
+         <size>0.28 0.75</size>
+          <zIndex>449</zIndex>			 
+      </image> 		 		 
+       </view>
+	   
+	   
+	   
+      <view name="video,basic,detailed">  
+   </view>  	   
+    </theme>

@@ -1,0 +1,41 @@
+<!--
+theme name:     Comic pop! - Retrobat Theme - August 2022 - suited for 16:9
+creator:		Dwayne Hurst (aka Hursty)
+version:        1.0
+info:			My first ever RetroBat Theme
+-->
+<theme>
+   <view name="system">
+	<image name="system-background" extra="true">
+		   <path>./_inc/images/char_default.png</path>	
+         <path>./_inc/char5.png</path> 		 
+      </image>	  	  
+   </view>
+     <view name="video,detailed">
+	<image name="system-background2" extra="true">
+         <pos>0.035 0.26</pos>
+         <size>0.24 0.63</size>
+		 	   <path>./_inc/images/char_default.png</path>	
+         <path>./_inc/char5.png</path> 
+         <zIndex>449</zIndex> 			 
+      </image>  
+   </view>
+   <view name="basic">
+	<image name="system-background2" extra="true">
+         <pos>0.3 0.05</pos>
+         <size>0.3 0.75</size>
+		 	   <path>./_inc/images/char_default.png</path>	
+         <path>./_inc/char5.png</path> 
+         <zIndex>449</zIndex> 		 
+   </image>
+   </view> 
+    <view name="gamecarousel">	  
+	<image name="system-background" extra="true">
+         <pos>0.74 0.08</pos>
+         <size>0.22 0.58</size>
+		 	   <path>./_inc/images/char_default.png</path>	
+         <path>./_inc/char5.png</path> 		 
+          <zIndex>449</zIndex>			 
+      </image> 		  
+   </view>     
+</theme>
