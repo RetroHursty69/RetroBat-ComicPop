@@ -5,9 +5,9 @@
       <carousel name="systemcarousel">
         <zIndex>400</zIndex>	      
         <type>horizontal</type>
-        <pos>0 0.425</pos>
+        <pos>0 0.41</pos>
         <size>1 1</size>
-        <logoSize>0.18 0.18</logoSize>
+        <logoSize>0.17 0.17</logoSize>
         <color>00000000</color>
         <maxLogoCount>5</maxLogoCount>
 		<logoAlignment>center</logoAlignment>        

@@ -83,7 +83,7 @@ Carousel wheel and main menu background
          <pos>0.2 0.91</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>000000</color>
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
 	     <fontSize>0.04</fontSize>
          <zIndex>11</zIndex>
          <alignment>center</alignment> 	     
@@ -114,6 +114,11 @@ Carousel wheel and main menu background
    <include subset="Wheels" name="Logo Boxed">./wheellogoboxed.xml</include>
    <include subset="Wheels" name="Clean Simple">./wheelsimple.xml</include>
    <include subset="Wheels" name="Clear Logo">./wheellogo.xml</include>
+   <include subset="Wheels" name="Oval Blue">./wheelovalblue.xml</include> 
+   <include subset="Wheels" name="Oval Carbon">./wheelovalcarbon.xml</include>
+   <include subset="Wheels" name="Oval Green">./wheelovalgreen.xml</include> 
+   <include subset="Wheels" name="Oval Orange">./wheelovalorange.xml</include>  
+   <include subset="Wheels" name="Oval Purple">./wheelovalpurple.xml</include>    
    
    <include subset="Videos" name="System Snaps _inc/videos">./videosystem_inc.xml</include>
    <include subset="Videos" name="Random Scraped">./videoscrapedrandom.xml</include>   
@@ -124,7 +129,7 @@ On Screen help
 
    <view name="system,gamecarousel,grid">
       <helpsystem name="help">
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
          <fontSize>0.03</fontSize>     
          <pos>1.245 0.965</pos>      
          <textColor>ffffff</textColor>
@@ -135,7 +140,7 @@ On Screen help
    <view name="basic,detailed,video">
       <helpsystem name="help">
         <origin>0.5 0</origin>	  
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
          <fontSize>0.028</fontSize>     
          <pos>0.51 0.935</pos>     
          <textColor>000000</textColor>
@@ -156,7 +161,7 @@ System Gamelist
          <size>0.29 0.835</size>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
          <fontSize>0.042</fontSize>
 		 <lineSpacing>0.9</lineSpacing>
          <forceUppercase>1</forceUppercase>
@@ -173,7 +178,7 @@ System Gamelist
          <size>0.302 0.835</size>
          <primaryColor>ffffff</primaryColor>
          <secondaryColor>ffffff</secondaryColor>
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
          <fontSize>0.042</fontSize>
 		 <lineSpacing>0.9</lineSpacing>
          <forceUppercase>1</forceUppercase>
@@ -195,7 +200,7 @@ Metadata, description, rating etc
       </text>
       <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
          <color>ffffff</color>
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
          <fontSize>0.032</fontSize>
       </text>
       <text name="md_lbl_rating">
@@ -226,7 +231,7 @@ Metadata, description, rating etc
          <alignment>center</alignment> 		 
       </text>
       <text name="md_lbl_releasedate">
-         <pos>0.78 0.45</pos>
+         <pos>0.77 0.45</pos>
          <size>0.12 0.035</size>
          <zIndex>43</zIndex> 
 		 <alignment>left</alignment> 		 
@@ -239,7 +244,7 @@ Metadata, description, rating etc
 		 <alignment>left</alignment> 		 
       </datetime>
       <text name="md_lbl_genre">
-         <pos>0.78 0.49</pos>
+         <pos>0.77 0.49</pos>
          <size>0.12 0.035</size>
          <zIndex>5</zIndex>   
 		 <alignment>left</alignment> 		 
@@ -252,7 +257,7 @@ Metadata, description, rating etc
 		 <alignment>left</alignment> 		 
       </text>         
       <text name="md_lbl_playcount">
-         <pos>0.78 0.53</pos>
+         <pos>0.77 0.53</pos>
          <size>0.2 0.035</size>
          <zIndex>5</zIndex> 
 		 <alignment>left</alignment> 		 
@@ -287,7 +292,7 @@ Metadata, description, rating etc
          <zIndex>5</zIndex>         
       </text>
       <text name="md_lbl_lastplayed">
-         <pos>0.78 0.57</pos>
+         <pos>0.77 0.57</pos>
          <size>0.12 0.035</size>
          <zIndex>43</zIndex>
 		 <alignment>left</alignment>           
@@ -504,7 +509,7 @@ Images, boxart, snaps, wheel art etc
       </text>
       <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount, md_lastplayed,md_description,md_players,md_releasedate">
          <color>ffffff</color>
-         <fontPath>./_inc/fonts/BADABB__.TTF</fontPath>
+         <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
          <fontSize>0.032</fontSize>
       </text>
       <text name="md_lbl_rating">
@@ -535,7 +540,7 @@ Images, boxart, snaps, wheel art etc
          <alignment>center</alignment> 		 
       </text>
       <text name="md_lbl_releasedate">
-         <pos>0.78 0.45</pos>
+         <pos>0.77 0.45</pos>
          <size>0.12 0.035</size>
          <zIndex>43</zIndex> 
 		 <alignment>left</alignment> 		 
@@ -548,7 +553,7 @@ Images, boxart, snaps, wheel art etc
 		 <alignment>left</alignment> 		 
       </datetime>
       <text name="md_lbl_genre">
-         <pos>0.78 0.49</pos>
+         <pos>0.77 0.49</pos>
          <size>0.12 0.035</size>
          <zIndex>5</zIndex>   
 		 <alignment>left</alignment> 		 
@@ -561,7 +566,7 @@ Images, boxart, snaps, wheel art etc
 		 <alignment>left</alignment> 		 
       </text>         
       <text name="md_lbl_playcount">
-         <pos>0.78 0.53</pos>
+         <pos>0.77 0.53</pos>
          <size>0.2 0.035</size>
          <zIndex>5</zIndex> 
 		 <alignment>left</alignment> 		 
@@ -596,7 +601,7 @@ Images, boxart, snaps, wheel art etc
          <zIndex>5</zIndex>         
       </text>
       <text name="md_lbl_lastplayed">
-         <pos>0.78 0.57</pos>
+         <pos>0.77 0.57</pos>
          <size>0.12 0.035</size>
          <zIndex>43</zIndex>
 		 <alignment>left</alignment>           
