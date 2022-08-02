@@ -111,14 +111,11 @@ Carousel wheel and main menu background
   
    <include subset="Wheels" name="Comic Word">./wheelcomicword.xml</include>
    <include subset="Wheels" name="Comic Boxed">./wheelcomicboxed.xml</include>
+   <include subset="Wheels" name="Oval Blue">./wheelrainbow.xml</include>    
    <include subset="Wheels" name="Logo Boxed">./wheellogoboxed.xml</include>
    <include subset="Wheels" name="Clean Simple">./wheelsimple.xml</include>
    <include subset="Wheels" name="Clear Logo">./wheellogo.xml</include>
-   <include subset="Wheels" name="Oval Blue">./wheelovalblue.xml</include> 
-   <include subset="Wheels" name="Oval Carbon">./wheelovalcarbon.xml</include>
-   <include subset="Wheels" name="Oval Green">./wheelovalgreen.xml</include> 
-   <include subset="Wheels" name="Oval Orange">./wheelovalorange.xml</include>  
-   <include subset="Wheels" name="Oval Purple">./wheelovalpurple.xml</include>    
+  
    
    <include subset="Videos" name="System Snaps _inc/videos">./videosystem_inc.xml</include>
    <include subset="Videos" name="Random Scraped">./videoscrapedrandom.xml</include>   
