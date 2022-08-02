@@ -16,7 +16,7 @@ Details:	Over 600 systems and collection folders.
 			
 Options:
 	Game Views:			5x (Carousel, Grid, Basic, Detailed, Video)
-	Wheel Art Options:	10x (Comic Word, Comic Boxed, Logo Boxed, Simple, Clear logo, Oval Blue, Oval Green, Oval Orange, Oval Purple, Oval Carbon)
+	Wheel Art Options:	6x (Comic Word, Comic Boxed, Rainbow, Logo Boxed, Simple, Clear logo)
 	Main Carousel:		5x (Left Curved, Right Curved, Left Straight,
 						Right Straight, Bottom Horizontal)
 	Character Art:		6x (Comic Cover, Flyer, Pop Box, Pop Combo,
