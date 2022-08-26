@@ -78,14 +78,26 @@ Carousel wheel and main menu background
         <delay>0.3</delay>
         <color>FFFFFF</color>
         <zIndex>201</zIndex>
+     </image>
+	 <image name="backgroundcounter" extra="true">
+        <visible>true</visible>
+        <path>./_inc/images/countback.png</path> 
+        <rotation>0.0</rotation>  
+        <roundCorners>0.00</roundCorners>             
+        <pos>0.5 0</pos>
+        <origin>0.5 0</origin>
+        <size>0.3 0.2</size>
+        <color>FFFFFF</color>
+        <delay>0.3</delay>		
+        <zIndex>400</zIndex>
      </image>	 
       <text name="systemInfo">     
-         <pos>0.2 0.91</pos>
+         <pos>0 0.07</pos>
          <backgroundColor>00000000</backgroundColor>
          <color>000000</color>
          <fontPath>./_inc/fonts/Bangers.ttf</fontPath>
 	     <fontSize>0.04</fontSize>
-         <zIndex>11</zIndex>
+         <zIndex>401</zIndex>
          <alignment>center</alignment> 	     
       </text> 
    </view>
