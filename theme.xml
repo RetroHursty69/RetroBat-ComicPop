@@ -384,9 +384,9 @@ Images, boxart, snaps, wheel art etc
          <zIndex>6</zIndex>               
       </video>	  
       <image name="md_marquee">
-         <pos>1.705 0.85</pos>
+         <pos>0.83 0.04</pos>
          <maxSize>0.12 0.08</maxSize>
-         <zIndex>7</zIndex>         
+         <zIndex>27</zIndex>         
       </image>
       <image name="logo">
          <origin>0.0 0.0</origin>      
